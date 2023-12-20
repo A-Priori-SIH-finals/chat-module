@@ -1,0 +1,8 @@
+.sidebar{
+    height: calc(100vh - 105px);
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.sidebar::-webkit-scrollbar{
+    display: none;
+}

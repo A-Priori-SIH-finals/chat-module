@@ -1,0 +1,86 @@
+[
+{
+    "title" : "payment",
+    "queries" : [
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        },
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        }
+    ]
+},
+{
+    "title" : "order",
+    "queries" : [
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        },
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        }
+    ]
+},
+{
+    "title" : "delivery",
+    "queries" : [
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        },
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        }
+    ]
+},
+{
+    "title" : "logistics",
+    "queries" : [
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        },
+        {
+            "question": "What is your return policy?",
+            "answers": ["Our return policy allows returns within 30 days of purchase.", "Returns are accepted with a valid reason within 14 days.", "You can return items within 45 days for a full refund.", "Our return policy varies by product, please check the product page for details.", "Returns are not accepted unless the product is damaged or defective."]
+        },
+        {
+            "question": "How can I track my order?",
+            "answers": ["You can track your order by logging into your account.", "Use the order tracking feature on our website.", "Enter your order number on the 'Track Order' page for real-time updates.", "We will send you tracking information via email once your order ships.", "Tracking information is available in your order confirmation email."]
+        }
+    ]
+}
+]
